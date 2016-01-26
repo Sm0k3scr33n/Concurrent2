@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Michael Gabbard
+ * @author Michael B Gabbard
  */
 class SimpleThreadCounter extends Concurrent2 implements Runnable{
     public void atomic(){    
